@@ -1,1 +1,1 @@
-### We moved to [getdataentry.com](https://getdataentry.com)
+### We moved to [scheduleurl.com](https://scheduleurl.com)

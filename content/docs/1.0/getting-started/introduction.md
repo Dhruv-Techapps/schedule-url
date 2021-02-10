@@ -32,4 +32,4 @@ Stay up to date on the features of {{<param name>}} and reach out to the communi
 - Read and subscribe to [The Official Schedule URL Blog]({{< param blog >}}).
 - Join [the official Discord server]({{< param discord >}}).
 
-[//]: # (You can also follow [@getdataentry on Twitter](https://twitter.com/{{< param twitter >}}) for the latest gossip and awesome music videos.)
+[//]: # (You can also follow [@scheduleurl on Twitter](https://twitter.com/{{< param twitter >}}) for the latest gossip and awesome music videos.)
