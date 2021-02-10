@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://scheduleurl.com/docs/1.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scheduleurl.com/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scheduleurl.com/404.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://scheduleurl.com/docs/1.0/calendar/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scheduleurl.com/docs/1.0/getting-started/download/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scheduleurl.com/docs/1.0/getting-started/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scheduleurl.com/docs/1.0/schedule/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scheduleurl.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scheduleurl.com/docs/versions/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,19 @@
+{
+  "name": "schedule-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo server --port 9001 --disableFastRender",
+    "build": "hugo"
+  },
+  "author": "Dhruv Techapps",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "autoprefixer": "^10.0.4",
+    "bootstrap": "^5.0.0-alpha3",
+    "hugo-bin": "^0.67.0",
+    "postcss": "^8.1.10",
+    "postcss-cli": "^8.3.0"
+  }
+}

@@ -1,1 +1,1 @@
-# schedule-url
+### We moved to [getdataentry.com](https://getdataentry.com)

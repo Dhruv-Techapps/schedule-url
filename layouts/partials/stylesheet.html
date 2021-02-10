@@ -1,0 +1,6 @@
+{{- "<!-- Bootstrap core CSS -->" | safeHTML }}
+<link href="{{ .Site.Params.cdn.css }}" rel="stylesheet"
+  {{ printf "integrity=%q" .Site.Params.cdn.css_hash | safeHTMLAttr }} crossorigin="anonymous">
+
+<link href="https://getautoclicker.com/docs/3.1/assets/css/docs.css" rel="stylesheet" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
