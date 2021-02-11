@@ -6,4 +6,6 @@ group: schedule
 toc: true
 ---
 
+{{<img schedule.png>}}
+
 ### Coming Soon
