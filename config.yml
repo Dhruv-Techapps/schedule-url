@@ -46,10 +46,10 @@ params:
 
   download:
     chrome:
-      dev: "https://chrome.google.com/webstore/detail/cpjikgcdmhfnmaiibplplldlchbjejel"
+      dev: "https://chrome.google.com/webstore/detail/cdjfjpoffkbfepobmlegdknkbddecodc"
       dev_version: 1.0.0
     Edge:
-      dev: "https://microsoftedge.microsoft.com/addons/detail/auto-clicker-autofill-/pmckiknbinanfnmbichcncmfpbcfpocn"
+      dev: "https://microsoftedge.microsoft.com/addons/detail/ipcbjmjendjpocfggdpcjnbadeefdppn"
       dev_version: 1.0.0
 
   cdn:
